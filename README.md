@@ -1,3 +1,7 @@
+Temporary fix, for expo 44
+- expo-linear-gradient : 10.0.3 => 11.0.0
+- react-native-reanimated : 2.2.0 => 2.3.1
+
 ## React Native Skeleton Content
 
 <!---https://raw.githubusercontent.com/alexZajac/react-native-skeleton-content/master/demos/main.gif-->
