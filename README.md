@@ -10,6 +10,12 @@ This repository isn't an official repository; you can use this repo while the pr
 
 ### Installation
 
+```
+npm install react-native-skeleton-content
+```
+
+### Usage
+
 ```javascript
 import SkeletonContent from '@psudocode/react-native-skeleton-content';
 ```
