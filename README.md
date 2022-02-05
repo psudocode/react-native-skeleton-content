@@ -1,6 +1,22 @@
-Temporary fix, for expo 44
+## Warning
+
+This repository isn't an official repository; you can use this repo while the problem with Expo SDK 44 isn't solved in the official repository. Remember to check the [official repository](https://github.com/alexZajac/react-native-skeleton-content) regularly.
+
+### What changes ?
+
+- tested for Expo 44
 - expo-linear-gradient : 10.0.3 => 11.0.0
 - react-native-reanimated : 2.2.0 => 2.3.1
+
+### Installation
+
+```javascript
+import SkeletonContent from '@psudocode/react-native-skeleton-content';
+```
+
+### The rest of the usage follows the documentation below.
+
+#
 
 ## React Native Skeleton Content
 
@@ -22,12 +38,14 @@ React native Skeleton Content, a simple yet fully customizable component made to
 [![Coverage Status](https://coveralls.io/repos/github/alexZajac/react-native-skeleton-content/badge.svg?branch=master)](https://coveralls.io/github/alexZajac/react-native-skeleton-content?branch=master)
 [![npm version](https://img.shields.io/npm/v/react-native-skeleton-content.svg?style=flat-square)](https://www.npmjs.com/package/react-native-skeleton-content)
 
-- [React Native Skeleton Content](#react-native-skeleton-content)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Props](#props)
-  - [Examples](#examples)
-  - [Playground](#playground)
+- [========================================================================================](#)
+  - [React Native Skeleton Content](#react-native-skeleton-content)
+    - [New Features](#new-features)
+    - [Installation](#installation-1)
+    - [Usage](#usage)
+    - [Props](#props)
+    - [Examples](#examples)
+    - [Playground](#playground)
 
 ### Installation
 
